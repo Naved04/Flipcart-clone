@@ -23,7 +23,7 @@ div {
 }
 
 .logo {
-    background-image: url("logo.svg");
+    background-image: url("images/logo.svg");
     background-size: cover;
     height: 40px;
     width: 160px;
@@ -164,7 +164,7 @@ div {
     padding: 16px 16px 16px 24px;
 }
 .g-img {
-    background-image: url("grocery.webp");
+    background-image: url("images/grocery.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -172,7 +172,7 @@ div {
 
 /* Box 2 */
 .mob-img {
-    background-image: url("mobile.webp");
+    background-image: url("images/mobile.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -180,7 +180,7 @@ div {
 
 /* Box 3 */
 .fas-img {
-    background-image: url("fashion.webp");
+    background-image: url("images/fashion.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -188,7 +188,7 @@ div {
 
 /* Box 4 */
 .elec-img {
-    background-image: url("electronics.webp");
+    background-image: url("images/electronics.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -197,7 +197,7 @@ div {
 
 /* Box 5 */
 .home-img {
-    background-image: url("furniture.webp");
+    background-image: url("images/furniture.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -205,7 +205,7 @@ div {
 
 /* Box 6 */
 .appl-img {
-    background-image: url("appliances.webp");
+    background-image: url("images/appliances.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -213,7 +213,7 @@ div {
 
 /* Box 7 */
 .travel-img {
-    background-image: url("travels.webp");
+    background-image: url("images/travels.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -221,7 +221,7 @@ div {
 
 /* Box 8 */
 .toys-img {
-    background-image: url("toys.webp");
+    background-image: url("images/toys.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -229,7 +229,7 @@ div {
 
 /* Box 9 */
 .whel-img {
-    background-image: url("wheelers.webp");
+    background-image: url("images/wheelers.webp");
     background-size: cover;
     height: 65px;
     width: 65px;
@@ -243,7 +243,7 @@ div {
 }
 
 .r-image {
-    background-image: url("hero.webp");
+    background-image: url("images/hero.webp");
     height: 165px;
     background-size: cover;
 }
@@ -288,35 +288,35 @@ div {
     text-align: center;
 }
 .e1-image {
-    background-image: url("camera.webp");
+    background-image: url("images/camera.webp");
     height: 120px;
     width: 160px;
     background-size: contain;
     margin: 10px 15px 30px 15px;
 }
 .e2-image {
-    background-image: url("moniter.webp");
+    background-image: url("images/moniter.webp");
     height: 120px;
     width: 160px;
     background-size: cover;
     margin: 10px 15px 30px 15px;
 }
 .e3-image {
-    background-image: url("printer.webp");
+    background-image: url("images/printer.webp");
     height: 120px;
     width: 160px;
     background-size: cover;
     margin: 10px 15px 30px 15px;
 }
 .e4-image {
-    background-image: url("keyboard.webp");
+    background-image: url("images/keyboard.webp");
     height: 85px;
     width: 160px;
     background-size: cover;
     margin: 35px 15px 40px 15px;
 }
 .e5-image {
-    background-image: url("projector.webp");
+    background-image: url("images/projector.webp");
     height: 120px;
     width: 160px;
     background-size: cover;
@@ -325,35 +325,35 @@ div {
 
 /* Sports image */
 .s1-image {
-    background-image: url("treadmill.webp");
+    background-image: url("images/treadmill.webp");
     height: 110px;
     width: 116px;
     background-size: contain;
     margin: 15px 15px 35px 40px;
 }
 .s2-image {
-    background-image: url("cycle.webp");
+    background-image: url("images/cycle.webp");
     height: 115px;
     width: 185px;
     background-size: cover;
     margin: 15px 15px 30px 5px;
 }
 .s3-image {
-    background-image: url("coffee.webp");
+    background-image: url("images/coffee.webp");
     height: 130px;
     width: 110px;
     background-size: cover;
     margin: 10px 15px 22px 38px;
 }
 .s4-image {
-    background-image: url("books.webp");
+    background-image: url("images/books.webp");
     height: 130px;
     width: 105px;
     background-size: contain;
     margin: 15px 15px 15px 45px;
 }
 .s5-image {
-    background-image: url("chess.webp");
+    background-image: url("images/chess.webp");
     height: 100px;
     width: 170px;
     background-size: contain;
@@ -417,7 +417,7 @@ div {
     background-color: #212121;
 }
 .visa {
-    background-image: url(visalogo.svg);
+    background-image: url(images/visalogo.svg);
     height: 17px;
     width: 380px;
     background-size: cover;
